@@ -4,7 +4,7 @@ Aplicación móvil para Android que permite contar células en imágenes de micr
 
 ## Getting Started
 
-La aplicación analiza imágenes de células bajo el microscopio y detecta en el grado de ajauste del modelo, el número de células presentes en ellas. El usuario puede cargar una 
+La aplicación analiza imágenes de células bajo el microscopio, y detecta en el grado de ajuste del modelo, el número de células presentes en ellas. El usuario puede cargar una 
 imagen desde la galería de su celular o tomarla directamente con la cámara, y la app devuelve el conteo en segundos.
 
 El flujo de funcionamiento es el siguiente:
